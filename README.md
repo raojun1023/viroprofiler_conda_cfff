@@ -1,5 +1,5 @@
 # ViroProfiler Conda Environment
-
+we adjust some sittings of viroprofiler  https://github.com/deng-lab/viroprofiler to better run in CFFF
 ViroProfiler is a comprehensive tool for viral genome analysis. This repository contains the Conda environment setup for ViroProfiler, ensuring all dependencies are managed and installed correctly.
 
 ## Features
